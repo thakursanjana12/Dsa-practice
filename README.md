@@ -1,1 +1,2 @@
 # Dsa-practice
+dsa[basic]
